@@ -1,0 +1,24 @@
+/* Your Styling */
+header{
+	background: red;
+
+}
+
+/* App */
+article section:nth-child(1) {
+	background: green;
+	
+}
+
+
+/* App */
+article section:nth-child(2) {
+	background: blue;
+	
+}
+
+/* App */
+article section:nth-child(3) {
+	background: yellow;
+	
+}
